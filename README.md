@@ -75,7 +75,7 @@ There is no Norminette in this exam.
 ### Question 4 is from Level 4
 :question: Any of the 10 Functions/Programs Below:
 ```
-  - flood_fill
+  - flood_fill (removed from Exam Rank 02)
   - fprime
   - ft_itoa
   - ft_list_foreach
