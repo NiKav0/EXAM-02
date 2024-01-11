@@ -13,8 +13,6 @@ int     *ft_rrange(int start, int end)
 	if (end == start)
 	{
 		arr = (int *)malloc(sizeof(int));
-		if (!arr)
-			return 0;
 		arr[0] = end;
 		return (arr);
 	}
